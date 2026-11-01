@@ -1,0 +1,566 @@
+========== HAJIME PROGRESSION AUDIT ==========
+Player: suspendedinwater
+UserId: 287877571
+PlaceId: 123177480308580
+Log entries: 560
+==============================================
+[17:14:32] [SNAPSHOT] Player: suspendedinwater
+[17:14:32] [ATTRIBUTE] LastingInjuries = "[]"
+[17:14:32] [ATTRIBUTE] LoadoutOwned = "[\"CrossCounter\",\"OrthodoxGuard\",\"OrthodoxStance\",\"OutboxerDash\",\"OverhandRight\",\"PhillyStance\"]"
+[17:14:32] [ATTRIBUTE] SlotsInfo = "{\"Cards\":{\"1\":{\"Name\":\"Ryota Mashiba\",\"Height\":74,\"Look\":{\"HairColor\":1,\"EyeColor\":1,\"Gender\":\"Masculine\",\"Shirt\":\"IppoTrainingShirt\",\"Skin\":16,\"HairStyle\":11,\"Pants\":\"IppoTrainingPants\",\"Face\":{\"Eyes\":22,\"Mouth\":18,\"Nose\":24,\"Brows\":23},\"Height\":74},\"Build\":\"Lean\",\"Rank\":\"Unranked 1\"}},\"Loaded\":true,\"Active\":1,\"Owned\":1,\"Price\":75,\"Max\":5,\"Product\":3719347290}"
+[17:14:32] [ATTRIBUTE] Equipped = "{\"Pants\":\"IppoTrainingPants\",\"Accessories\":[],\"Shirt\":\"IppoTrainingShirt\",\"Belt\":\"\"}"
+[17:14:32] [ATTRIBUTE] Slot = 1
+[17:14:32] [ATTRIBUTE] SparWins = 0
+[17:14:32] [ATTRIBUTE] RankWillpower = 0
+[17:14:32] [ATTRIBUTE] Stat_Stamina_A = 0.7718
+[17:14:32] [ATTRIBUTE] StatPointsRemaining = 24
+[17:14:32] [ATTRIBUTE] RankedRegions = "[\"South NA\"]"
+[17:14:32] [ATTRIBUTE] Thirst = 59
+[17:14:32] [ATTRIBUTE] Stat_Endurance_B = 2.7962
+[17:14:32] [ATTRIBUTE] Stat_Speed = 5.1435
+[17:14:32] [ATTRIBUTE] Stat_Speed_A = 5.1435
+[17:14:32] [ATTRIBUTE] GearOwned = "[]"
+[17:14:32] [ATTRIBUTE] ProLicenseAt = 1793543895
+[17:14:32] [ATTRIBUTE] RankedLosses = 0
+[17:14:32] [ATTRIBUTE] BoxingEquipped = false
+[17:14:32] [ATTRIBUTE] Gear_Trunks = "Red"
+[17:14:32] [ATTRIBUTE] Energy = 100
+[17:14:32] [ATTRIBUTE] ProLicense = true
+[17:14:32] [ATTRIBUTE] Stat_Technique_B = 0
+[17:14:32] [ATTRIBUTE] Avatar = "{\"Created\":true,\"Last\":\"Mashiba\",\"HairColor\":1,\"EyeColor\":1,\"Gender\":\"Masculine\",\"Face\":{\"Brows\":23,\"Mouth\":18,\"Nose\":24,\"Eyes\":22},\"Height\":74,\"Tokens\":0,\"Skin\":16,\"HairStyle\":11,\"First\":\"Ryota\",\"Version\":2}"
+[17:14:32] [ATTRIBUTE] Gear_Shoes = "Red"
+[17:14:32] [ATTRIBUTE] GameLoaded = true
+[17:14:32] [ATTRIBUTE] RecoveringInjuries = "[]"
+[17:14:32] [ATTRIBUTE] PaidRandomRestricted = false
+[17:14:32] [ATTRIBUTE] TutorialDash = "Outboxer"
+[17:14:32] [ATTRIBUTE] Stat_Stamina = 2.2658
+[17:14:32] [ATTRIBUTE] PunchLockedUntil = 58.878518814374914
+[17:14:32] [ATTRIBUTE] BodyWeight = 67.3
+[17:14:32] [ATTRIBUTE] RerollTokens = 0
+[17:14:32] [ATTRIBUTE] Loadout = "{\"Skill2\":\"CrossCounter\",\"Guard1\":\"OrthodoxGuard\",\"Dash\":\"OutboxerDash\",\"Skill1\":\"OverhandRight\",\"Stance1\":\"PhillyStance\",\"Guard2\":\"OrthodoxGuard\",\"Stance2\":\"PhillyStance\"}"
+[17:14:32] [ATTRIBUTE] OwnedAccessories = "[]"
+[17:14:32] [ATTRIBUTE] Stat_Endurance_A = 1.2531
+[17:14:32] [ATTRIBUTE] Stat_Willpower_A = 0
+[17:14:32] [ATTRIBUTE] SkillPoints = 0
+[17:14:32] [ATTRIBUTE] Stat_Willpower = 0
+[17:14:32] [ATTRIBUTE] Stat_Power_A = 0.0236
+[17:14:32] [ATTRIBUTE] TutorialDone = true
+[17:14:32] [ATTRIBUTE] Gear_Gloves = "Red"
+[17:14:32] [ATTRIBUTE] NaturalWeight = 72.6
+[17:14:32] [ATTRIBUTE] RankedWins = 0
+[17:14:32] [ATTRIBUTE] BoxingStyle = "Straight"
+[17:14:32] [ATTRIBUTE] Quests = "{\"Weekly\":[{\"P\":1,\"Goal\":8,\"Yen\":10000,\"Id\":\"W_Bouts\",\"Text\":\"Finish 8 bouts\",\"Tokens\":2,\"Claimed\":false},{\"P\":3,\"Goal\":5,\"Yen\":8000,\"Id\":\"W_KD\",\"Text\":\"Score 5 knockdowns\",\"Tokens\":2,\"Claimed\":false},{\"P\":300,\"Goal\":300,\"Yen\":12000,\"Id\":\"W_Train\",\"Text\":\"Gain stats from 300 training reps\",\"Claimed\":true}],\"Daily\":[{\"P\":8,\"Goal\":10,\"Yen\":3000,\"Id\":\"D_Dodge\",\"Text\":\"Slip 10 punches with a weave\",\"Claimed\":false},{\"P\":60,\"Goal\":60,\"Yen\":3000,\"Id\":\"D_Land\",\"Text\":\"Land 60 punches in fights\",\"Claimed\":true},{\"P\":4,\"Goal\":4,\"Yen\":1500,\"Id\":\"D_Eat\",\"Text\":\"Eat or drink 4 times\",\"Claimed\":true}],\"DailyEnds\":1793577600,\"WeeklyEnds\":1793577600}"
+[17:14:32] [ATTRIBUTE] SkillPointsEarned = 21
+[17:14:32] [ATTRIBUTE] Skills = "[\"Boxing Basics\",\"Counter Punch\",\"Cross Counter\",\"Double Jab\",\"Head Slip\",\"Hook\",\"One-Two\",\"Outboxer Dash\",\"Overhand Right\",\"Philly Shell Style\",\"Triple Jab\",\"Turtle Strategy\",\"Uppercut\",\"Weaving\"]"
+[17:14:32] [ATTRIBUTE] Hunger = 2
+[17:14:32] [ATTRIBUTE] StatGoal_Stamina_A = 10
+[17:14:32] [ATTRIBUTE] RankedDraws = 0
+[17:14:32] [ATTRIBUTE] Stat_Stamina_B = 1.494
+[17:14:32] [ATTRIBUTE] Items = "[]"
+[17:14:32] [ATTRIBUTE] LoadProgress = 1
+[17:14:32] [ATTRIBUTE] Stat_Willpower_B = 0
+[17:14:32] [ATTRIBUTE] Stat_Technique = 5.2002
+[17:14:32] [ATTRIBUTE] Stat_Technique_A = 5.2002
+[17:14:32] [ATTRIBUTE] Stat_Speed_B = 0
+[17:14:32] [ATTRIBUTE] Stat_Power = 0.6283
+[17:14:32] [ATTRIBUTE] Stat_Power_B = 0.6047
+[17:14:32] [ATTRIBUTE] CharacterName = "Ryota Mashiba"
+[17:14:32] [ATTRIBUTE] OwnedBelts = "[]"
+[17:14:32] [ATTRIBUTE] OwnedClothes = "[\"IppoTrainingPants\",\"IppoTrainingShirt\"]"
+[17:14:32] [ATTRIBUTE] Hotbar = "[\"Fists\",\"ProLicense\",\"\",\"\",\"\",\"\",\"\",\"\",\"\"]"
+[17:14:32] [ATTRIBUTE] Stat_Endurance = 4.0493
+[17:14:32] [ATTRIBUTE] Cash = 80250
+[17:14:32] [AUDIT] Live progression monitoring started.
+[17:14:34] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.SuperBoyGamer6649, "Jab", 0.9990648752767409, "Body", false)
+[17:14:34] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.SuperBoyGamer6649, "Jab", "Body", false, 36)
+[17:14:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:14:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 81)
+[17:14:51] [ATTRIBUTE CHANGE] BoxingEquipped: false -> true
+[17:14:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Head", false)
+[17:14:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", false, 110)
+[17:14:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.997950103194123, "Body", false)
+[17:14:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 111)
+[17:14:51] [ATTRIBUTE CHANGE] BoxingEquipped: true -> false
+[17:14:52] [ATTRIBUTE CHANGE] BoxingEquipped: false -> true
+[17:14:52] [ATTRIBUTE CHANGE] PunchLockedUntil: 58.878518814374914 -> 418.2628452143774
+[17:14:52] [ATTRIBUTE CHANGE] BoxingEquipped: true -> false
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Body", false)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 112)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 82)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.9635138500861962, "Body", false)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.madroldicoliveira, -1920.3848876953125, 201.03392028808594, -1706.5728759765625, 0.16321755945682526, 0, 0.9865901470184326, 8)
+[17:14:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 6, false, "Jab", Workspace.Nicolas203617, -1920.3848876953125, 201.03392028808594, -1706.5728759765625, false, false, "Body", "HitTorso_Top", 0.6685556208367129, 0.20892024040222168, -0.721874475479126, -0.0910797119140625, -0.5, true, "Whiff", false, nil, 113)
+[17:14:53] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Cross", 0.9989750515970615, "Body", false)
+[17:14:53] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Cross", "Body", false, 114)
+[17:14:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:14:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 83)
+[17:14:55] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.SuperBoyGamer6649, "Jab", 1.4900294678161083, "Body", false)
+[17:14:55] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.SuperBoyGamer6649, "Jab", "Body", false, 37)
+[17:14:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:14:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 5, false, "Jab", Workspace.madroldicoliveira, -1914.5562744140625, 201.450439453125, -1708.6353759765625, false, false, "Body", "HitTorso_Top", 0.31692441701889035, 1, -0.6788403987884521, 0.7746580839157104, -0.5, false, nil, false, nil, 84)
+[17:14:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:14:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", true, 85)
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Body", false)
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("WeaveDodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "Left")
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Dodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "HeadSlip")
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 116)
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainNotice", "Equip your boxing gloves first")
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.843127401470593, "Body", false)
+[17:14:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 4, false, "Jab", Workspace.Nicolas203617, -1914.6920166015625, 200.93601989746094, -1707.6336669921875, false, false, "Body", "HitTorso_Top", 0.36353775262832644, 0.11101983487606049, -0.949999988079071, -0.1889801174402237, -0.5, false, nil, false, nil, 117)
+[17:14:58] [ATTRIBUTE CHANGE] BoxingEquipped: false -> true
+[17:14:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainStart", { ["Sub"]=1, ["Procedural"]="SpeedBag", ["SubName"]="Punch Speed", ["NeedsGloves"]=true, ["Rhythm"]={ ["Good"]=0.03, ["Perfect"]=0.22, ["Start"]=1, ["Max"]=2.5 }, ["SweepScale"]=1, ["Mode"]="Tap", ["Stat"]="Speed", ["Station"]="Speed bag" })
+[17:14:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=1, ["Duration"]=0.62, ["Bounce"]=true, ["Start"]=1793571306.4204998 })
+[17:14:59] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1435 -> 5.1458
+[17:14:59] [ATTRIBUTE CHANGE] Stat_Speed: 5.1435 -> 5.1458
+[17:14:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0022999999999999687, ["Value"]=5.1458, ["Combo"]=1, ["Id"]=1, ["Signed"]=0.028064943129016508, ["Error"]=0, ["Missed"]=false })
+[17:14:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=2, ["Duration"]=0.608, ["Bounce"]=true, ["Start"]=1793571307.0404997 })
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Body", false)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 118)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 86)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.997950103194123, "Body", false)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=3, ["Duration"]=0.608, ["Bounce"]=true, ["Start"]=1793571307.6484997 })
+[17:15:00] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1458 -> 5.1479
+[17:15:00] [ATTRIBUTE CHANGE] Stat_Speed: 5.1458 -> 5.1479
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0020999999999995467, ["Value"]=5.1479, ["Combo"]=2, ["Id"]=2, ["Signed"]=0.1181289553642273, ["Error"]=0.16574401121873122, ["Missed"]=false })
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.madroldicoliveira, -1913.9158935546875, 200.9543914794922, -1709.827880859375, 0.13688847422599792, 0, 0.9905864596366882, 8)
+[17:15:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 6, false, "Jab", Workspace.Nicolas203617, -1913.9158935546875, 200.9543914794922, -1709.827880859375, false, false, "Body", "HitTorso_Top", 0.634282673658837, 0.12939143180847168, 0.025760479271411896, -0.1706085205078125, -0.5, true, "Interrupt", false, nil, 119)
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:01] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1479 -> 5.1503
+[17:15:01] [ATTRIBUTE CHANGE] Stat_Speed: 5.1479 -> 5.1503
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0023999999999997357, ["Value"]=5.1503, ["Combo"]=3, ["Id"]=3, ["Signed"]=0.0266436683504205, ["Error"]=0, ["Missed"]=false })
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=4, ["Duration"]=0.584, ["Bounce"]=true, ["Start"]=1793571308.2564998 })
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1914.9864501953125, 201.4757843017578, -1712.552001953125, false, false, "Body", "HitTorso_Top", 0.17220881368469748, 1, 0.2548050880432129, 0.800000011920929, -0.5, false, nil, false, nil, 88)
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.715616051990029, "Body", false)
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1914.6927490234375, 201.4757843017578, -1713.357666015625, false, false, "Body", "HitTorso_Top", 0, 1, -0.8532132506370544, 0.800000011920929, -0.5, false, nil, false, nil, 89)
+[17:15:01] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1503 -> 5.1527
+[17:15:01] [ATTRIBUTE CHANGE] Stat_Speed: 5.1503 -> 5.1527
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.002400000000000624, ["Value"]=5.1527, ["Combo"]=4, ["Id"]=4, ["Signed"]=-0.014927697508302454, ["Error"]=0, ["Missed"]=false })
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=5, ["Duration"]=0.572, ["Bounce"]=true, ["Start"]=1793571308.8404999 })
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 0.8578080259950145, "Body", false)
+[17:15:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 7, false, "Cross", Workspace.madroldicoliveira, -1914.4869384765625, 201.3198699951172, -1713.2236328125, false, false, "Body", "HitTorso_Top", 0.3124908433356419, 0.9439362287521362, -0.949999988079071, 0.643936276435852, -0.5, false, nil, false, nil, 90)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9959751993835855, "Body", false)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 120)
+[17:15:02] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1527 -> 5.1552
+[17:15:02] [ATTRIBUTE CHANGE] Stat_Speed: 5.1527 -> 5.1552
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0024999999999995026, ["Value"]=5.1552, ["Combo"]=5, ["Id"]=5, ["Signed"]=-0.028115052443284258, ["Error"]=0, ["Missed"]=false })
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=6, ["Duration"]=0.5599999999999999, ["Bounce"]=true, ["Start"]=1793571309.4125 })
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.997950103194123, "Body", false)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, false, "Jab", Workspace.madroldicoliveira, -1916.2425537109375, 201.47601318359375, -1712.9447021484375, false, false, "Body", "HitTorso_Top", 0.5917973276318774, 1, -0.3350779414176941, 0.800000011920929, -0.5, false, nil, true, nil, 91)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 121)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Head", true)
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Head", true, 92)
+[17:15:02] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1552 -> 5.1577
+[17:15:02] [ATTRIBUTE CHANGE] Stat_Speed: 5.1552 -> 5.1577
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.002500000000000391, ["Value"]=5.1577, ["Combo"]=6, ["Id"]=6, ["Signed"]=-0.04163001264844622, ["Error"]=0, ["Missed"]=false })
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=7, ["Duration"]=0.5479999999999999, ["Bounce"]=true, ["Start"]=1793571309.9724998 })
+[17:15:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 3.686254802941186, "Head", true)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, false, "Jab", Workspace.madroldicoliveira, -1916.3486328125, 201.4757843017578, -1712.088134765625, false, false, "Body", "HitTorso_Top", 0.1764762326316235, 1, 0.8060354590415955, 0.800000011920929, -0.5, false, nil, true, nil, 93)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 0.8578080259950145, "Body", true)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", true, 122)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Cross", Workspace.madroldicoliveira, -1916.8443603515625, 201.33326721191406, -1714.2379150390625, false, false, "Body", "HitTorso_Top", 0.49554375558553243, 0.9574858546257019, -0.949999988079071, 0.6574859023094177, -0.5, false, nil, true, nil, 94)
+[17:15:03] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1577 -> 5.1603
+[17:15:03] [ATTRIBUTE CHANGE] Stat_Speed: 5.1577 -> 5.1603
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0026000000000001577, ["Value"]=5.1603, ["Combo"]=7, ["Id"]=7, ["Signed"]=-0.006432080790944344, ["Error"]=0, ["Missed"]=false })
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=8, ["Duration"]=0.5359999999999999, ["Bounce"]=true, ["Start"]=1793571310.5205 })
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 1.0091859129353111, "Body", true)
+[17:15:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Cross", Workspace.madroldicoliveira, -1918.1116943359375, 201.4757843017578, -1713.7183837890625, false, false, "Body", "HitTorso_Top", 0.314925217628479, 1, -0.949999988079071, 0.800000011920929, -0.5, false, nil, true, nil, 95)
+[17:15:04] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1603 -> 5.1629
+[17:15:04] [ATTRIBUTE CHANGE] Stat_Speed: 5.1603 -> 5.1629
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0025999999999992696, ["Value"]=5.1629, ["Combo"]=8, ["Id"]=8, ["Signed"]=0.0048715676834334195, ["Error"]=0, ["Missed"]=false })
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=9, ["Duration"]=0.5239999999999999, ["Bounce"]=true, ["Start"]=1793571311.0565 })
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=10, ["Duration"]=0.5239999999999999, ["Bounce"]=true, ["Start"]=1793571311.5805 })
+[17:15:04] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1629 -> 5.1655
+[17:15:04] [ATTRIBUTE CHANGE] Stat_Speed: 5.1629 -> 5.1655
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0026000000000001577, ["Value"]=5.1655, ["Combo"]=9, ["Id"]=9, ["Signed"]=0.0034998391420786625, ["Error"]=0, ["Missed"]=false })
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9783441328316561, "Body", false)
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 4, false, "Jab", Workspace.Nicolas203617, -1916.39404296875, 200.92672729492188, -1711.39208984375, false, false, "Body", "HitTorso_Top", 0.38515900373458856, 0.10172717273235321, 0.949999988079071, -0.19827277958393097, -0.5, false, nil, false, nil, 123)
+[17:15:04] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.9261950775569359, "Body", false)
+[17:15:05] [ATTRIBUTE CHANGE] Energy: 100 -> 99
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 4, false, "Jab", Workspace.Nicolas203617, -1915.4222412109375, 200.9267578125, -1710.916259765625, false, false, "Body", "HitTorso_Top", 0, 0.10174243152141571, 0.949999988079071, -0.19825752079486847, -0.5, false, nil, false, nil, 124)
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=11, ["Duration"]=0.5119999999999999, ["Bounce"]=true, ["Start"]=1793571312.1044998 })
+[17:15:05] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1655 -> 5.1682
+[17:15:05] [ATTRIBUTE CHANGE] Stat_Speed: 5.1655 -> 5.1682
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0026999999999999247, ["Value"]=5.1682, ["Combo"]=10, ["Id"]=10, ["Signed"]=0.018187151610396295, ["Error"]=0, ["Missed"]=false })
+[17:15:05] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1682 -> 5.1709
+[17:15:05] [ATTRIBUTE CHANGE] Stat_Speed: 5.1682 -> 5.1709
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0026999999999999247, ["Value"]=5.1709, ["Combo"]=11, ["Id"]=11, ["Signed"]=-0.05355849862098695, ["Error"]=0, ["Missed"]=false })
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=12, ["Duration"]=0.4879999999999999, ["Bounce"]=true, ["Start"]=1793571312.6165 })
+[17:15:05] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.0293696311940173, "Body", false)
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 96)
+[17:15:06] [ATTRIBUTE CHANGE] BodyWeight: 67.3 -> 67.2
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=13, ["Duration"]=0.4879999999999999, ["Bounce"]=true, ["Start"]=1793571313.1044998 })
+[17:15:06] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1709 -> 5.1737
+[17:15:06] [ATTRIBUTE CHANGE] Stat_Speed: 5.1709 -> 5.1737
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.00280000000000058, ["Value"]=5.1737, ["Combo"]=12, ["Id"]=12, ["Signed"]=0.04883623514019076, ["Error"]=0, ["Missed"]=false })
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.0293696311940173, "Body", false)
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1921.90478515625, 201.4757843017578, -1712.1361083984375, false, false, "Body", "HitTorso_Top", 0, 1, -0.6521806716918945, 0.800000011920929, -0.5, false, nil, false, nil, 97)
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=14, ["Duration"]=0.47599999999999987, ["Bounce"]=true, ["Start"]=1793571313.5924997 })
+[17:15:06] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1737 -> 5.1765
+[17:15:06] [ATTRIBUTE CHANGE] Stat_Speed: 5.1737 -> 5.1765
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0027999999999996916, ["Value"]=5.1765, ["Combo"]=13, ["Id"]=13, ["Signed"]=0.05988165980479758, ["Error"]=0, ["Missed"]=false })
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.0293696311940173, "Body", false)
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1922.73876953125, 201.4757843017578, -1712.072021484375, false, false, "Body", "HitTorso_Top", 0.5174071669578552, 1, -0.949999988079071, 0.800000011920929, -0.5, false, nil, false, nil, 98)
+[17:15:06] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 1.0293696311940173, "Body", false)
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Cross", Workspace.madroldicoliveira, -1923.5306396484375, 201.4757843017578, -1712.18701171875, false, false, "Body", "HitTorso_Top", 0.407744550704956, 1, -0.6814562678337097, 0.800000011920929, -0.5, false, nil, false, nil, 99)
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=15, ["Duration"]=0.46399999999999986, ["Bounce"]=true, ["Start"]=1793571314.0684998 })
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1765 -> 5.1794
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed: 5.1765 -> 5.1794
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0029000000000003467, ["Value"]=5.1794, ["Combo"]=14, ["Id"]=14, ["Signed"]=0.005685481704583691, ["Error"]=0, ["Missed"]=false })
+[17:15:07] [ATTRIBUTE CHANGE] Hunger: 2 -> 1
+[17:15:07] [ATTRIBUTE CHANGE] Thirst: 59 -> 58
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=16, ["Duration"]=0.45199999999999985, ["Bounce"]=true, ["Start"]=1793571314.5324998 })
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1794 -> 5.1823
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed: 5.1794 -> 5.1823
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0028999999999994586, ["Value"]=5.1823, ["Combo"]=15, ["Id"]=15, ["Signed"]=-0.013939265547127563, ["Error"]=0, ["Missed"]=false })
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9860772802766399, "Body", false)
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("WeaveDodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "Right")
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Dodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "HeadSlip")
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("PerfectDodge", Workspace.madroldicoliveira, Workspace.Nicolas203617)
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 125)
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=17, ["Duration"]=0.43999999999999984, ["Bounce"]=true, ["Start"]=1793571314.9844997 })
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1823 -> 5.1853
+[17:15:07] [ATTRIBUTE CHANGE] Stat_Speed: 5.1823 -> 5.1853
+[17:15:07] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030000000000001137, ["Value"]=5.1853, ["Combo"]=16, ["Id"]=16, ["Signed"]=0.056305817798175666, ["Error"]=0, ["Missed"]=false })
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.SuperBoyGamer6649, "Jab", 1.4781295945194897, "Body", false)
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=18, ["Duration"]=0.4279999999999998, ["Bounce"]=true, ["Start"]=1793571315.4244998 })
+[17:15:08] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1853 -> 5.1883
+[17:15:08] [ATTRIBUTE CHANGE] Stat_Speed: 5.1853 -> 5.1883
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030000000000001137, ["Value"]=5.1883, ["Combo"]=17, ["Id"]=17, ["Signed"]=0.017209486527876426, ["Error"]=0, ["Missed"]=false })
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.SuperBoyGamer6649, "Jab", "Body", false, 38)
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.0293696311940173, "Body", true)
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1923.963623046875, 201.5899658203125, -1711.25634765625, false, false, "Body", "HitTorso_Top", 0, 1, -0.22140008211135864, 0.800000011920929, -0.5, false, nil, true, nil, 100)
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=19, ["Duration"]=0.4159999999999998, ["Bounce"]=true, ["Start"]=1793571315.8524997 })
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:08] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1883 -> 5.1913
+[17:15:08] [ATTRIBUTE CHANGE] Stat_Speed: 5.1883 -> 5.1913
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030000000000001137, ["Value"]=5.1913, ["Combo"]=18, ["Id"]=18, ["Signed"]=-0.0024571597019088613, ["Error"]=0, ["Missed"]=false })
+[17:15:08] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 4, false, "Jab", Workspace.madroldicoliveira, -1926.00732421875, 201.4757843017578, -1711.3277587890625, false, false, "Body", "HitTorso_Top", 0.41520260572433465, 1, 0.18548592925071716, 0.800000011920929, -0.5, false, nil, false, nil, 101)
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 4, false, "Jab", Workspace.madroldicoliveira, -1926.640380859375, 201.44349670410156, -1712.850341796875, false, false, "Body", "HitTorso_Top", 0.30164455175399774, 1, -0.949999988079071, 0.7687405347824097, -0.5, false, nil, false, nil, 102)
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=20, ["Duration"]=0.4039999999999998, ["Bounce"]=true, ["Start"]=1793571316.2684996 })
+[17:15:09] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1913 -> 5.1943
+[17:15:09] [ATTRIBUTE CHANGE] Stat_Speed: 5.1913 -> 5.1943
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030000000000001137, ["Value"]=5.1943, ["Combo"]=19, ["Id"]=19, ["Signed"]=-0.11078268289566046, ["Error"]=0.10635137557983398, ["Missed"]=false })
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.715616051990029, "Body", false)
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 103)
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=21, ["Duration"]=0.3919999999999998, ["Bounce"]=true, ["Start"]=1793571316.6724997 })
+[17:15:09] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1943 -> 5.1974
+[17:15:09] [ATTRIBUTE CHANGE] Stat_Speed: 5.1943 -> 5.1974
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030999999999998806, ["Value"]=5.1974, ["Combo"]=20, ["Id"]=20, ["Signed"]=0.022065521466850063, ["Error"]=0, ["Missed"]=false })
+[17:15:09] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 0.8578080259950145, "Body", true)
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=22, ["Duration"]=0.3799999999999998, ["Bounce"]=true, ["Start"]=1793571317.0644996 })
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.1974 -> 5.2006
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed: 5.1974 -> 5.2006
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.2006, ["Combo"]=21, ["Id"]=21, ["Signed"]=-0.007453621650228699, ["Error"]=0, ["Missed"]=false })
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9418760698985559, "Body", false)
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 2, false, "Cross", Workspace.madroldicoliveira, -1926.6798095703125, 201.34617614746094, -1710.4066162109375, false, false, "Body", "HitTorso_Top", 0.48709480762481683, 0.970378577709198, -0.6803790330886841, 0.6703786253929138, -0.5, false, nil, true, nil, 104)
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 4, false, "Jab", Workspace.Nicolas203617, -1923.66552734375, 201.0582275390625, -1709.865966796875, false, false, "Body", "HitTorso_Top", 0.557840790197714, 0.23322748392820358, -0.04656222462654114, -0.0667724683880806, -0.5, false, nil, false, nil, 127)
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=23, ["Duration"]=0.36799999999999977, ["Bounce"]=true, ["Start"]=1793571317.4444997 })
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2006 -> 5.2038
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed: 5.2006 -> 5.2038
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032000000000005357, ["Value"]=5.2038, ["Combo"]=22, ["Id"]=22, ["Signed"]=-0.09171209837261005, ["Error"]=0, ["Missed"]=false })
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=24, ["Duration"]=0.35599999999999976, ["Bounce"]=true, ["Start"]=1793571317.8124998 })
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2038 -> 5.2071
+[17:15:10] [ATTRIBUTE CHANGE] Stat_Speed: 5.2038 -> 5.2071
+[17:15:10] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032999999999994145, ["Value"]=5.2071, ["Combo"]=23, ["Id"]=23, ["Signed"]=-0.02616773480954379, ["Error"]=0, ["Missed"]=false })
+[17:15:11] [ATTRIBUTE CHANGE] Energy: 99 -> 98
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=25, ["Duration"]=0.34399999999999975, ["Bounce"]=true, ["Start"]=1793571318.1684997 })
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Head", false)
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2071 -> 5.2104
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed: 5.2071 -> 5.2104
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0033000000000003027, ["Value"]=5.2104, ["Combo"]=24, ["Id"]=24, ["Signed"]=0.036691681722576724, ["Error"]=0, ["Missed"]=false })
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", false, 128)
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 105)
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=26, ["Duration"]=0.33199999999999974, ["Bounce"]=true, ["Start"]=1793571318.5124998 })
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2104 -> 5.2137
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed: 5.2104 -> 5.2137
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0033000000000003027, ["Value"]=5.2137, ["Combo"]=25, ["Id"]=25, ["Signed"]=0.11292238568150728, ["Error"]=0, ["Missed"]=false })
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, false, "Jab", Workspace.madroldicoliveira, -1924.2392578125, 201.4757843017578, -1707.68994140625, false, false, "Body", "HitTorso_Top", 0, 1, -0.3061022162437439, 0.800000011920929, -0.5, false, nil, true, nil, 106)
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=27, ["Duration"]=0.31999999999999973, ["Bounce"]=true, ["Start"]=1793571318.8444998 })
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2137 -> 5.2171
+[17:15:11] [ATTRIBUTE CHANGE] Stat_Speed: 5.2137 -> 5.2171
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2171, ["Combo"]=26, ["Id"]=26, ["Signed"]=0.11034399630075487, ["Error"]=0, ["Missed"]=false })
+[17:15:11] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1925.6229248046875, 201.47555541992188, -1707.4307861328125, false, false, "Body", "HitTorso_Top", 0, 1, 0.949999988079071, 0.800000011920929, -0.5, false, nil, true, nil, 107)
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=28, ["Duration"]=0.3079999999999997, ["Bounce"]=true, ["Start"]=1793571319.1644998 })
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.715616051990029, "Head", false)
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2171 -> 5.2205
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed: 5.2171 -> 5.2205
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2205, ["Combo"]=27, ["Id"]=27, ["Signed"]=0.11927559971809397, ["Error"]=0, ["Missed"]=false })
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Head", false, 108)
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=29, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571319.4724998 })
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 0.8578080259950145, "Body", true)
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2205 -> 5.2238
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed: 5.2205 -> 5.2238
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032999999999994145, ["Value"]=5.2238, ["Combo"]=28, ["Id"]=28, ["Signed"]=0.03193880056405999, ["Error"]=0, ["Missed"]=false })
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Cross", "Body", true, 109)
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=30, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571319.7724998 })
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 1.0091859129353111, "Body", false)
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2238 -> 5.2269
+[17:15:12] [ATTRIBUTE CHANGE] Stat_Speed: 5.2238 -> 5.2269
+[17:15:12] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030999999999998806, ["Value"]=5.2269, ["Combo"]=29, ["Id"]=29, ["Signed"]=0.2503538131713867, ["Error"]=0.17332187065711385, ["Missed"]=false })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=31, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571320.0724998 })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Cross", "Body", false, 110)
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2269 -> 5.2301
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed: 5.2269 -> 5.2301
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032000000000005357, ["Value"]=5.2301, ["Combo"]=30, ["Id"]=30, ["Signed"]=0.17031033833821616, ["Error"]=0.11790715731107271, ["Missed"]=false })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=32, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571320.3724997 })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.SuperBoyGamer6649, "Cross", 0.9854197296796597, "Body", false)
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2301 -> 5.2333
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed: 5.2301 -> 5.2333
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.2333, ["Combo"]=31, ["Id"]=31, ["Signed"]=0.1800068219502767, ["Error"]=0.12462010750403771, ["Missed"]=false })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=33, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571320.6724997 })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.SuperBoyGamer6649, "Cross", "Body", false, 39)
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Body", true)
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2333 -> 5.2364
+[17:15:13] [ATTRIBUTE CHANGE] Stat_Speed: 5.2333 -> 5.2364
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030999999999998806, ["Value"]=5.2364, ["Combo"]=32, ["Id"]=32, ["Signed"]=0.2307709058125814, ["Error"]=0.159764473254864, ["Missed"]=false })
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 1, false, "Jab", Workspace.Nicolas203617, -1924.7099609375, 201.38214111328125, -1710.55078125, false, false, "Body", "HitTorso_Top", 0.32785710903116083, 0.5571409463882446, 0.949999988079071, 0.25714099407196045, -0.5, false, nil, true, nil, 129)
+[17:15:13] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=34, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571320.9724996 })
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2364 -> 5.2396
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed: 5.2364 -> 5.2396
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032000000000005357, ["Value"]=5.2396, ["Combo"]=33, ["Id"]=33, ["Signed"]=0.1647607485453288, ["Error"]=0.11406513360830453, ["Missed"]=false })
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=35, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571321.2724996 })
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.843127401470593, "Head", true)
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftUppercut", 0.8789280944531288, "Body", false)
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("WeaveDodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "Right")
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Dodge", Workspace.madroldicoliveira, Workspace.Nicolas203617, "Head", "HeadSlip")
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", true, 130)
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2396 -> 5.2426
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed: 5.2396 -> 5.2426
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0030000000000001137, ["Value"]=5.2426, ["Combo"]=34, ["Id"]=34, ["Signed"]=0.28953075408935547, ["Error"]=0.20044436821570763, ["Missed"]=false })
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "LeftUppercut", "Body", false, 711)
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=36, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571321.5724995 })
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2426 -> 5.2458
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed: 5.2426 -> 5.2458
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.2458, ["Combo"]=35, ["Id"]=35, ["Signed"]=0.1795776685078939, ["Error"]=0.12432300127469577, ["Missed"]=false })
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 3.686254802941186, "Head", true)
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=37, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571321.8724995 })
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2458 -> 5.249
+[17:15:14] [ATTRIBUTE CHANGE] Stat_Speed: 5.2458 -> 5.249
+[17:15:14] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.249, ["Combo"]=36, ["Id"]=36, ["Signed"]=0.16708453496297201, ["Error"]=0.11567390882051908, ["Missed"]=false })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 1, false, "Jab", Workspace.Nicolas203617, -1923.951416015625, 202.625, -1710.0362548828125, false, false, "Head", "HitHead_Top", 0.39280797629051173, 1, -0.45163410902023315, 1.5, -0.6000000238418579, false, nil, true, nil, 131)
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=38, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571322.1724994 })
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.249 -> 5.2524
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed: 5.249 -> 5.2524
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2524, ["Combo"]=37, ["Id"]=37, ["Signed"]=0.10381460189819336, ["Error"]=0, ["Missed"]=false })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=39, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571322.4724994 })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", true)
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2524 -> 5.2557
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed: 5.2524 -> 5.2557
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0033000000000003027, ["Value"]=5.2557, ["Combo"]=38, ["Id"]=38, ["Signed"]=0.12351512908935547, ["Error"]=0, ["Missed"]=false })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.8789280944531288, "Body", false)
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1924.6917724609375, 201.4757843017578, -1711.2313232421875, false, false, "Body", "HitTorso_Top", 0, 1, 0.949999988079071, 0.800000011920929, -0.5, false, nil, true, nil, 112)
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=40, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571322.7724993 })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "LeftHook", "Body", false, 712)
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2557 -> 5.2591
+[17:15:15] [ATTRIBUTE CHANGE] Stat_Speed: 5.2557 -> 5.2591
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2591, ["Combo"]=39, ["Id"]=39, ["Signed"]=0.10913213094075522, ["Error"]=0, ["Missed"]=false })
+[17:15:15] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", false)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 6, false, "Jab", Workspace.madroldicoliveira, -1925.470703125, 201.44094848632812, -1712.37109375, false, false, "Body", "HitTorso_Top", 0.37105752183687724, 1, 0.6270965933799744, 0.765167236328125, -0.5, false, nil, false, nil, 113)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=41, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571323.0724993 })
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2591 -> 5.2624
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed: 5.2591 -> 5.2624
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0033000000000003027, ["Value"]=5.2624, ["Combo"]=40, ["Id"]=40, ["Signed"]=0.08840560913085938, ["Error"]=0, ["Missed"]=false })
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightHook", 0.7642852995244599, "Body", false)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", false)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=42, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571323.3724992 })
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "RightHook", "Body", false, 713)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 5, false, "Jab", Workspace.madroldicoliveira, -1926.5894775390625, 201.446533203125, -1713.7662353515625, false, false, "Body", "HitTorso_Top", 0.5839126944541931, 1, -0.9094772338867188, 0.800000011920929, -0.5, false, nil, false, nil, 114)
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2624 -> 5.2656
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed: 5.2624 -> 5.2656
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.2656, ["Combo"]=41, ["Id"]=41, ["Signed"]=0.16890843709309897, ["Error"]=0.11693661029522234, ["Missed"]=false })
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=43, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571323.6724992 })
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.6760985341947144, "Body", false)
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2656 -> 5.2688
+[17:15:16] [ATTRIBUTE CHANGE] Stat_Speed: 5.2656 -> 5.2688
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0031999999999996476, ["Value"]=5.2688, ["Combo"]=42, ["Id"]=42, ["Signed"]=0.15782594680786133, ["Error"]=0.10926411702082706, ["Missed"]=false })
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "LeftHook", "Body", false, 714)
+[17:15:16] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=44, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571323.9724991 })
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2688 -> 5.2722
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed: 5.2688 -> 5.2722
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2722, ["Combo"]=43, ["Id"]=43, ["Signed"]=0.06740252176920573, ["Error"]=0, ["Missed"]=false })
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 1.2867120389925217, "Body", false)
+[17:15:17] [ATTRIBUTE CHANGE] Energy: 98 -> 97
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=45, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571324.272499 })
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2722 -> 5.2755
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed: 5.2722 -> 5.2755
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0033000000000003027, ["Value"]=5.2755, ["Combo"]=44, ["Id"]=44, ["Signed"]=0.06645282109578451, ["Error"]=0, ["Missed"]=false })
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Cross", Workspace.madroldicoliveira, -1925.9658203125, 201.33531188964844, -1712.55615234375, false, false, "Body", "HitTorso_Top", 0.6040946130879875, 0.9595151543617249, -0.7069047689437866, 0.6595152020454407, -0.5, false, nil, false, nil, 115)
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=46, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571324.572499 })
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2755 -> 5.2789
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed: 5.2755 -> 5.2789
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2789, ["Combo"]=45, ["Id"]=45, ["Signed"]=-0.011957486470540365, ["Error"]=0, ["Missed"]=false })
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=47, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571324.872499 })
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2789 -> 5.2823
+[17:15:17] [ATTRIBUTE CHANGE] Stat_Speed: 5.2789 -> 5.2823
+[17:15:17] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0034000000000000696, ["Value"]=5.2823, ["Combo"]=46, ["Id"]=46, ["Signed"]=0.11029322942097983, ["Error"]=0, ["Missed"]=false })
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Head", false)
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=-1, ["Id"]=48, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571325.172499 })
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", false, 133)
+[17:15:18] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2823 -> 5.2856
+[17:15:18] [ATTRIBUTE CHANGE] Stat_Speed: 5.2823 -> 5.2856
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainResult", { ["Gain"]=0.0032999999999994145, ["Value"]=5.2856, ["Combo"]=47, ["Id"]=47, ["Signed"]=0.10176658630371094, ["Error"]=0, ["Missed"]=false })
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainSweep", { ["Hold"]=false, ["Dir"]=1, ["Id"]=49, ["Duration"]=0.3, ["Bounce"]=true, ["Start"]=1793571325.472499 })
+[17:15:18] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("TrainEnd", "Out of stamina")
+[17:15:19] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", false)
+[17:15:19] [ATTRIBUTE CHANGE] BoxingEquipped: true -> false
+[17:15:19] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, false, "Jab", Workspace.madroldicoliveira, -1921.613037109375, 201.4757843017578, -1709.8409423828125, false, false, "Body", "HitTorso_Top", 0.24085396275288207, 1, -0.0036714007146656513, 0.800000011920929, -0.5, false, nil, true, nil, 116)
+[17:15:19] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", true)
+[17:15:19] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, false, "Jab", Workspace.madroldicoliveira, -1921.5648193359375, 201.4649200439453, -1708.8824462890625, false, false, "Body", "HitTorso_Top", 0.358093066344151, 1, 0.605147123336792, 0.800000011920929, -0.5, false, nil, true, nil, 117)
+[17:15:22] [REMOTE] ReplicatedStorage.Boxing.RoadworkRemote("Start", "Easy", "Kamogawa", { [1]=-1881.437255859375, 196.68226623535156, -1729.762451171875, [2]=-1884.9815673828125, 196.38937377929688, -1845.173583984375, [3]=-1884.6429443359375, 196.38523864746094, -1966, [4]=-2188.26123046875, 196.6109161376953, -1966, [5]=-2184.255126953125, 196.48814392089844, -1775.9835205078125, [6]=-2037.966796875, 196.42166137695312, -1775.9835205078125, [7]=-1883.4906005859375, 196.49974060058594, -1764.1397705078125, [8]=-1897.5478515625, 196.7648162841797, -1699.66748046875 }, 91, 1793571329.185942)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.1987700619164736, "Body", false)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 134)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", false)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 2.2117528817647116, "Body", false)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 2, false, "Jab", Workspace.madroldicoliveira, -1923.7630615234375, 201.4719696044922, -1709.1881103515625, false, false, "Body", "HitTorso_Top", 0.5071052521348601, 1, -0.2542332410812378, 0.7961884140968323, -0.5, false, nil, true, nil, 118)
+[17:15:23] [ATTRIBUTE CHANGE] Stat_Stamina_B: 1.494 -> 1.5389
+[17:15:23] [ATTRIBUTE CHANGE] Stat_Stamina: 2.2658 -> 2.3107
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.RoadworkRemote("Checkpoint", 1, 0.04489999999999994, false)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 1.2867120389925217, "Body", false)
+[17:15:23] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1923.9290771484375, 201.4757843017578, -1708.7772216796875, false, false, "Body", "HitTorso_Top", 0.4075451252688868, 1, -0.4162556529045105, 0.800000011920929, -0.5, false, nil, true, nil, 119)
+[17:15:24] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 1.2867120389925217, "Body", true)
+[17:15:24] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Cross", Workspace.madroldicoliveira, -1925.8673095703125, 201.43312072753906, -1708.7369384765625, false, false, "Body", "HitTorso_Top", 0.6126526252698455, 1, -0.949999988079071, 0.7573394775390625, -0.5, false, nil, true, nil, 120)
+[17:15:25] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Body", false)
+[17:15:25] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 136)
+[17:15:29] [ATTRIBUTE CHANGE] Stat_Stamina_B: 1.5389 -> 1.5785
+[17:15:29] [ATTRIBUTE CHANGE] Stat_Stamina: 2.3107 -> 2.3503
+[17:15:29] [REMOTE] ReplicatedStorage.Boxing.RoadworkRemote("Checkpoint", 2, 0.03960000000000008, false)
+[17:15:30] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Cross", 0.9989750515970615, "Body", false)
+[17:15:30] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Cross", "Body", false, 137)
+[17:15:32] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Cross", 0.8578080259950145, "Body", false)
+[17:15:32] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 3, false, "Cross", Workspace.madroldicoliveira, -1916.5498046875, 201.35165405273438, -1704.4183349609375, false, false, "Body", "HitTorso_Top", 0.5928250289934536, 0.975872814655304, 0.1244189590215683, 0.6758728623390198, -0.5, false, nil, true, nil, 121)
+[17:15:32] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "Jab", 0.8789280944531288, "Body", false)
+[17:15:32] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "Jab", "Body", false, 715)
+[17:15:33] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "Jab", 0.8789280944531288, "Body", false)
+[17:15:33] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "Jab", "Body", false, 716)
+[17:15:34] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "Jab", 0.8108192753257645, "Body", false)
+[17:15:34] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, false, "Jab", Workspace.teathChewer, -1936.76123046875, 182.20635986328125, -1744.932861328125, false, false, "Body", "HitTorso_Top", 0.4902149537553854, 0.3563354015350342, 0.949999988079071, 0.05633544921875, -0.5, false, nil, true, nil, 717)
+[17:15:41] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Body", false)
+[17:15:41] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:41] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 2, false, "Jab", Workspace.madroldicoliveira, -1918.12158203125, 201.368408203125, -1701.33447265625, false, false, "Body", "HitTorso_Top", 0, 0.9926422238349915, 0.20878678560256958, 0.6926422715187073, -0.5, false, nil, true, nil, 122)
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:42] [ATTRIBUTE CHANGE] Hunger: 1 -> 50
+[17:15:42] [ATTRIBUTE CHANGE] Thirst: 58 -> 57
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Power_A: 0.0236 -> 0
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Power: 0.6283 -> 0.5047
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Power_B: 0.6047 -> 0.5047
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Speed_A: 5.2856 -> 5.1856
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Speed: 5.2856 -> 5.1856
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Technique_A: 5.2002 -> 5.1002
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Technique: 5.2002 -> 5.1002
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Endurance_A: 1.2531 -> 1.1531
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Endurance: 4.0493 -> 3.8493
+[17:15:42] [ATTRIBUTE CHANGE] StatPointsRemaining: 24 -> 25
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Endurance_B: 2.7962 -> 2.6962
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Stamina_A: 0.7718 -> 0.6718
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Stamina: 2.3503 -> 2.1503
+[17:15:42] [ATTRIBUTE CHANGE] Stat_Stamina_B: 1.5785 -> 1.4785
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.SurvivalRemote("Notice", "STARVING! Every stat -0.1 (not Willpower). Eat and drink!", "Danger")
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.SurvivalRemote("Penalty", true, false)
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1918.7440185546875, 201.4757843017578, -1703.789306640625, false, false, "Body", "HitTorso_Top", 0.0013336952739349428, 1, -0.6441986560821533, 0.800000011920929, -0.5, false, nil, false, nil, 123)
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.SurvivalRemote("Notice", "Your stats dropped below what your skills need - lost Cross Counter (points back)", "Danger")
+[17:15:42] [ATTRIBUTE CHANGE] Skills: "[\"Boxing Basics\",\"Counter Punch\",\"Cross Counter\",\"Double Jab\",\"Head Slip\",\"Hook\",\"One-Two\",\"Outboxer Dash\",\"Overhand Right\",\"Philly Shell Style\",\"Triple Jab\",\"Turtle Strategy\",\"Uppercut\",\"Weaving\"]" -> "[\"Boxing Basics\",\"Counter Punch\",\"Double Jab\",\"Head Slip\",\"Hook\",\"One-Two\",\"Outboxer Dash\",\"Overhand Right\",\"Philly Shell Style\",\"Triple Jab\",\"Turtle Strategy\",\"Uppercut\",\"Weaving\"]"
+[17:15:42] [ATTRIBUTE CHANGE] SkillPointsEarned: 21 -> 20
+[17:15:42] [ATTRIBUTE CHANGE] SkillPoints: 0 -> 2
+[17:15:42] [ATTRIBUTE CHANGE] Loadout: "{\"Skill2\":\"CrossCounter\",\"Guard1\":\"OrthodoxGuard\",\"Dash\":\"OutboxerDash\",\"Skill1\":\"OverhandRight\",\"Stance1\":\"PhillyStance\",\"Guard2\":\"OrthodoxGuard\",\"Stance2\":\"PhillyStance\"}" -> "{\"Guard1\":\"OrthodoxGuard\",\"Dash\":\"OutboxerDash\",\"Skill1\":\"OverhandRight\",\"Stance1\":\"PhillyStance\",\"Guard2\":\"OrthodoxGuard\",\"Stance2\":\"PhillyStance\"}"
+[17:15:42] [ATTRIBUTE CHANGE] LoadoutOwned: "[\"CrossCounter\",\"OrthodoxGuard\",\"OrthodoxStance\",\"OutboxerDash\",\"OverhandRight\",\"PhillyStance\"]" -> "[\"OrthodoxGuard\",\"OrthodoxStance\",\"OutboxerDash\",\"OverhandRight\",\"PhillyStance\"]"
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Head", false)
+[17:15:42] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:43] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", false, 139)
+[17:15:43] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 124)
+[17:15:43] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.997950103194123, "Head", false)
+[17:15:43] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Head", false, 140)
+[17:15:44] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:44] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1920.0843505859375, 201.4044952392578, -1708.6981201171875, false, false, "Body", "HitTorso_Top", 0.29054900407791134, 1, 0.13218173384666443, 0.728713870048523, -0.5, false, nil, false, nil, 125)
+[17:15:45] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:15:45] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1921.193359375, 201.4757843017578, -1705.0687255859375, false, false, "Body", "HitTorso_Top", 0.22450127720040128, 1, 0.949999988079071, 0.800000011920929, -0.5, false, nil, true, nil, 126)
+[17:15:46] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Head", true)
+[17:15:46] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Head", true, 127)
+[17:15:46] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Body", false)
+[17:15:46] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.Nicolas203617, "Jab", "Body", false, 142)
+[17:15:47] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:47] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 1, true, "Jab", Workspace.madroldicoliveira, -1922.67333984375, 201.4757843017578, -1707.670166015625, false, false, "Body", "HitTorso_Top", 0.6358859214933694, 1, -0.4941463768482208, 0.800000011920929, -0.5, false, nil, true, nil, 128)
+[17:15:47] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9215637007352965, "Head", true)
+[17:15:47] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:15:47] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 1, false, "Jab", Workspace.Nicolas203617, -1921.5615234375, 202.59873962402344, -1707.5152587890625, false, false, "Head", "HitHead_Top", 0.317564643586461, 0.7922881841659546, 0.42853137850761414, 1.5, -0.6000000238418579, false, nil, true, nil, 143)
+[17:15:48] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 1.843127401470593, "Body", true)
+[17:15:48] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 2, false, "Jab", Workspace.Nicolas203617, -1920.555908203125, 200.9157257080078, -1706.253662109375, false, false, "Body", "HitTorso_Top", 0, 0.09072569012641907, -0.7734856009483337, -0.2092742621898651, -0.5, false, nil, true, nil, 144)
+[17:15:50] [ATTRIBUTE CHANGE] Cash: 80250 -> 80083
+[17:15:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", true)
+[17:15:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", true, 130)
+[17:15:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:15:50] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.Nicolas203617, 5, false, "Jab", Workspace.madroldicoliveira, -1922.3172607421875, 201.3289337158203, -1706.86865234375, false, false, "Body", "HitTorso_Top", 0, 0.9531524777412415, 0.5117530226707458, 0.6531525254249573, -0.5, false, nil, false, nil, 131)
+[17:15:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "Jab", 0.8108192753257645, "Body", true)
+[17:15:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "Jab", Workspace.teathChewer, -1912.71875, 183.12118530273438, -1706.6641845703125, false, false, "Body", "HitTorso_Top", 0.6879997278286143, 0.41727907210588455, -0.10262256860733032, 0.11727911978960037, -0.5, false, nil, true, nil, 718)
+[17:15:51] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftUppercut", 0.8108192753257645, "Body", false)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "LeftHook", 0.8810572687224669, "Head", false)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1911.8792724609375, 184.1529998779297, -1706.4498291015625, -0.578490674495697, 0, -0.815688967704773, 8)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 10, false, "LeftUppercut", Workspace.teathChewer, -1911.8792724609375, 184.1529998779297, -1706.4498291015625, false, false, "Body", "HitHead_Top", 0.28340083572706914, 0.6973145008087158, 0.33167600631713867, 1.149999976158142, -0.6000000238418579, true, "Interrupt", false, nil, 719)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.8108192753257645, "Body", false)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1915.4017333984375, 182.3039093017578, -1706.032470703125, -0.9576930999755859, 0, -0.28779152035713196, 8)
+[17:15:52] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 5, false, "LeftHook", Workspace.teathChewer, -1915.4017333984375, 182.3039093017578, -1706.032470703125, false, false, "Body", "HitTorso_Left", 0.5526035036060314, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 720)
+[17:15:53] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightHook", 0.7178106682559628, "Body", false)
+[17:15:53] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1917.749755859375, 182.3039093017578, -1709.0504150390625, -0.7733573317527771, 0, -0.6339703798294067, 8)
+[17:15:53] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 4, false, "RightHook", Workspace.teathChewer, -1917.749755859375, 182.3039093017578, -1709.0504150390625, false, false, "Body", "HitTorso_Bottom", 0.4583294136353461, 0, 0.04856307804584503, -0.699999988079071, -0.5, false, nil, false, nil, 721)
+[17:15:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.6237071348659726, "Body", false)
+[17:15:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "LeftHook", Workspace.teathChewer, -1918.9285888671875, 182.3039093017578, -1708.100341796875, false, false, "Body", "HitTorso_Bottom", 0.5540152615882306, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 722)
+[17:15:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightUppercut", 0.8108192753257645, "Body", false)
+[17:15:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1917.9520263671875, 184.1531524658203, -1709.03173828125, -0.3578702509403229, 0, -0.9337713718414307, 8)
+[17:15:54] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 5, false, "RightUppercut", Workspace.teathChewer, -1917.9520263671875, 184.1531524658203, -1709.03173828125, false, false, "Body", "HitHead_Top", 0.5295827781980506, 0.7640131711959839, -0.550000011920929, 1.149999976158142, -0.6000000238418579, false, nil, false, nil, 723)
+[17:15:55] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftUppercut", 0.8441134175037938, "Body", false)
+[17:15:55] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "LeftUppercut", "Body", false, 724)
+[17:15:55] [REMOTE] ReplicatedStorage.Boxing.RoadworkRemote("End", "Stopped", 0.08450000000000002)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.8395339883143944, "Body", false)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "LeftHook", Workspace.teathChewer, -1921.477783203125, 182.30850219726562, -1713.44384765625, false, false, "Body", "HitTorso_Left", 0.6335681859937733, 0, 0.07213366031646729, -0.699999988079071, -0.5, false, nil, false, nil, 725)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftUppercut", 0.8108192753257645, "Body", false)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "LeftHook", 1.0572687224669604, "Body", false)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1921.8428955078125, 184.1554412841797, -1711.78759765625, -0.760352611541748, 0, -0.6495105028152466, 8)
+[17:15:56] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 6, false, "LeftUppercut", Workspace.teathChewer, -1921.8428955078125, 184.1554412841797, -1711.78759765625, false, false, "Body", "HitHead_Top", 0.42883685356897727, 0.7849384546279907, 0.550000011920929, 1.149999976158142, -0.6000000238418579, true, "Interrupt", false, nil, 726)
+[17:15:57] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightUppercut", 0.8108192753257645, "Body", false)
+[17:15:57] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.teathChewer, "RightUppercut", "Body", false, 727)
+[17:15:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "RightHook", 1.0572687224669604, "Body", false)
+[17:15:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1924.4986572265625, 184.49899291992188, -1713.55810546875, -0.5546359419822693, 0, -0.8320931196212769, 8)
+[17:15:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Hit", Workspace.IPlayRBWorld1, -1924.4986572265625, 184.49899291992188, -1713.55810546875, -0.5546359419822693, 0, -0.8320931196212769, 0.3, "Heavy")
+[17:15:58] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 23, false, "RightUppercut", Workspace.teathChewer, -1924.4986572265625, 184.49899291992188, -1713.55810546875, false, false, "Head", "HitHead_Top", 0.6214880115222658, 0.7120362520217896, -0.4720555245876312, 1.149999976158142, -0.6000000238418579, true, "Interrupt", false, "FullBodyUppercut", nil)
+[17:15:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.8108192753257645, "Body", false)
+[17:15:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "LeftHook", Workspace.teathChewer, -1926.9432373046875, 182.41131591796875, -1712.5379638671875, false, false, "Body", "HitTorso_Bottom", 0.8489443652495718, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 728)
+[17:15:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightHook", 0.7050602394137083, "Body", false)
+[17:15:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "RightHook", Workspace.teathChewer, -1925.328369140625, 182.31614685058594, -1713.6229248046875, false, false, "Body", "HitTorso_Bottom", 0.8150950608047982, 0, -0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 729)
+[17:15:59] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.6237071348659726, "Body", false)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1926.8558349609375, 182.30393981933594, -1712.787353515625, -0.3987591564655304, 0, -0.9170557856559753, 8)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 5, false, "LeftHook", Workspace.teathChewer, -1926.8558349609375, 182.30393981933594, -1712.787353515625, false, false, "Body", "HitTorso_Bottom", 0.7426349299425672, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 730)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "RightHook", 0.6237071348659726, "Body", false)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1925.1063232421875, 182.30467224121094, -1713.4200439453125, -0.39286094903945923, 0, -0.9195979237556458, 8)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 5, false, "RightHook", Workspace.teathChewer, -1925.1063232421875, 182.30467224121094, -1713.4200439453125, false, false, "Body", "HitTorso_Bottom", 0.7670660284571155, 0, -0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 731)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 0.6237071348659726, "Body", false)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.IPlayRBWorld1, -1927.1068115234375, 182.31588745117188, -1712.856689453125, -0.41759952902793884, 0, -0.9086311459541321, 8)
+[17:16:00] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 5, false, "LeftHook", Workspace.teathChewer, -1927.1068115234375, 182.31588745117188, -1712.856689453125, false, false, "Body", "HitTorso_Bottom", 0.8529279061455148, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 732)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftHook", 1.621638550651529, "Body", false)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.IPlayRBWorld1, 1, true, "LeftHook", Workspace.teathChewer, -1926.995849609375, 182.3094482421875, -1713.052001953125, false, false, "Body", "HitTorso_Bottom", 0.9150616845970888, 0, 0.949999988079071, -0.699999988079071, -0.5, false, nil, false, nil, 733)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.Nicolas203617, "Jab", 0.9989750515970615, "Body", false)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.madroldicoliveira, 4, false, "Jab", Workspace.Nicolas203617, -1920.4632568359375, 200.9267120361328, -1705.1351318359375, false, false, "Body", "HitTorso_Top", 0.2763131193018416, 0.10171197354793549, -0.949999988079071, -0.1982879787683487, -0.5, false, nil, false, nil, 145)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "LeftHook", 0.8810572687224669, "Body", false)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.teathChewer, -1924.701416015625, 182.20797729492188, -1712.38623046875, 0.353426456451416, 0, 0.9354622960090637, 8)
+[17:16:01] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.teathChewer, 5, false, "LeftHook", Workspace.IPlayRBWorld1, -1924.701416015625, 182.20797729492188, -1712.38623046875, false, false, "Body", "HitTorso_Left", 0.7830113117183746, 0, 0.949999988079071, -0.397491455078125, -0.5, false, nil, false, nil, 23)
+[17:16:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "RightHook", 0.7661367554108409, "Body", false)
+[17:16:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.teathChewer, -1926.4345703125, 182.5707550048828, -1710.5506591796875, 0.30718690156936646, 0, 0.9516491889953613, 8)
+[17:16:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.teathChewer, 5, false, "RightHook", Workspace.IPlayRBWorld1, -1926.4345703125, 182.5707550048828, -1710.5506591796875, false, false, "Body", "HitTorso_Right", 0.6250326272870135, 0.2652861960232258, -0.949999988079071, -0.034713756293058395, -0.5, false, nil, false, nil, 24)
+[17:16:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "LeftHook", 0.6777363605557437, "Body", false)
+[17:16:02] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.IPlayRBWorld1, "LeftHook", "Body", false, 25)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "RightHook", 0.6777363605557437, "Body", false)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.teathChewer, "LeftUppercut", 0.8108192753257645, "Body", false)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.teathChewer, -1926.1512451171875, 182.2107696533203, -1711.432861328125, 0.46273094415664673, 0, 0.886498749256134, 8)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.teathChewer, 6, false, "RightHook", Workspace.IPlayRBWorld1, -1926.1512451171875, 182.2107696533203, -1711.432861328125, false, false, "Body", "HitTorso_Right", 0.5280753862251921, 0, -0.949999988079071, -0.394683837890625, -0.5, true, "Interrupt", false, nil, 26)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.madroldicoliveira, "Jab", 0.8578080259950145, "Body", false)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Miss", Workspace.madroldicoliveira, "Jab", "Body", false, 132)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Punch", Workspace.IPlayRBWorld1, "LeftHook", 0.6777363605557437, "Body", false)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Blood", "Cut", Workspace.teathChewer, -1924.5718994140625, 182.21031188964844, -1711.199951171875, 0.468554824590683, 0, 0.8834344148635864, 8)
+[17:16:03] [REMOTE] ReplicatedStorage.Boxing.BoxingRemote("Hit", Workspace.teathChewer, 4, false, "LeftHook", Workspace.IPlayRBWorld1, -1924.5718994140625, 182.21031188964844, -1711.199951171875, false, false, "Body", "HitTorso_Left", 0.7883232681397743, 0, -0.03268975019454956, -0.395111083984375, -0.5, false, nil, false, nil, 27)
